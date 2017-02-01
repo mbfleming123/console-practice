@@ -60,7 +60,7 @@ var flynn = {
 
 The next two sections will be *significantly* easier if you use the template(s) contained within the `including-scripts` repo.
 
-Clone the repo from GitHub. Save the [arrays.js](https://raw.githubusercontent.com/umiami-js/console-practice/master/03-arrays-and-objects/arrays.js) and [objects.js](https://raw.githubusercontent.com/umiami-js/console-practice/master/03-arrays-and-objects/objects.js) files to the `js` folder. Use the `imported-script.html` file. Include the `array.js` and `objects.js` files using the script tag. You may erase the contents of `js/imported-script.js` and write your code within that file.
+Clone the repo from GitHub. Save the [arrays.js](https://raw.githubusercontent.com/umiami-js/console-practice/master/03-arrays-and-objects/array.js) and [objects.js](https://raw.githubusercontent.com/umiami-js/console-practice/master/03-arrays-and-objects/objects.js) files to the `js` folder. Use the `imported-script.html` file. Include the `array.js` and `objects.js` files using the script tag. You may erase the contents of `js/imported-script.js` and write your code within that file.
 
 Do not modify the contents of `js/array.js`.
 
