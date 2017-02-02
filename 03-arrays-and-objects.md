@@ -22,7 +22,7 @@ If a solution or answer to a question eludes you, ask!
 
 3. Enter the following into the console: `var number = parseInt(Math.random() * 100);` DO NOT peek at what `number` contains! (If you cheat, re-enter the statement.)
 
-  Create a variable called `emptyArray` to store a new array. Using an array constructor, pass in `number` as the value to great an empty array with the unknown number of spaces.
+  Create a variable called `emptyArray` to store a new array. Using an array constructor, pass in `number` as the value to create an empty array with the unknown number of spaces.
 
   What **array property** can you use to determine how big the array is?  (Think you are correct? *Now* you may look at the value contained in number.)
 
