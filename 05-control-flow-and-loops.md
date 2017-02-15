@@ -1,4 +1,4 @@
-# 04 Functions & Methods
+# 05 Control Flow and Loops
 
 The following exercises will require you to enter code into a file which is included in an html file. (You *could* type all this into the console, but it will probably be very frustrating).
 
