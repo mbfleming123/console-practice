@@ -18,8 +18,6 @@ If a solution or answer to a question eludes you, ask!
 
   - The variable which holds the user input is global, then passed into `sayHello` as an argument.
 
-  - The variable which holds the user input is local, only accessible within `sayHello`.
-
   - Instead of calling `sayHello` from the script or console, turn it into an immediately invoked function expression ('iffy') so a user is prompted for information and greeted as soon as the page loads.
 
 2. Let's rebuild arithmetic operators for addition and subtraction in functions. But let's make them more helpful.

@@ -24,11 +24,11 @@ If a solution or answer to a question eludes you, ask!
 
     Use `document.write()` to print a different message.
 
-    Use `document.write()` to print a different message, one which requires a slash (i.e. Hack/Slash).
+    Use `document.write()` to print a different message, one which requires a slash (i.e. Hack\Slash).
 
     Use `console.log()` to print the message you just typed, but enclose it with single quotes instead of double quotes. What happens?
 
-    How might you fix this? (Hint: Read up on [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String))
+    Hint: Read up on [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String))
 
     When you fix the statement from the last step, try creating output to the document using a new line and tab!
 
@@ -60,7 +60,7 @@ If a solution or answer to a question eludes you, ask!
 
    Do you think a `toLowerCase()` method exists? Try it! How about `.capitalize`? :}
 
-7. `"cat".replace("r", "t")`
+7. `"cat".replace("t", "r")`
 
    Type `"sass".replace("s", "b")`. What is the result?
 

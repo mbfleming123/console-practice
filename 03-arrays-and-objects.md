@@ -70,7 +70,7 @@ Do not modify the contents of `js/array.js`.
 
   Add the following line to your code:
 
-  `var splicedArray = array.splice(27, 7);`
+  `var splicedArray = numbers.splice(27, 7);`
 
   How long is the `numbers` array now?
 
@@ -82,21 +82,19 @@ Do not modify the contents of `js/array.js`.
 
   `5, 7, 6, 8, 2, 1, 6, 8, 9, 0`
 
-  Use the `concat` method to add the `moreNumbers` array to the `numbers` array. Store the result in a new variable as `concat` does not permanently modify the original array.
+  Use the `concat` method to add the `moreNumbers` array to the `numbers` array. Store the result in a new variable (`newNumbersArray`) as `concat` does not permanently modify the original array.
 
   Add the following line to your code:
 
-  `numbers.reverse();`
+  `newNumbersArray.reverse();`
 
-  How long is the `numbers` array?
+  How long is the `newNumbersArray` array?
 
   What is the index of the first appearance of the number 5?  
 
   What is the index of the last appearance of the number 5?
 
-3. `console.log(animals);`
-
-  Create a new array stored in the variable `topPets`.
+3. Create a new array stored in the variable `topPets`.
 
   Add the following using bracket notation: `fish, cat, dog, elephant`.
 
@@ -110,9 +108,7 @@ Do not modify the contents of `js/array.js`.
 
   `eggplant, carrot, banana, apple`
 
-  Store this sorted array in the variable `fewerVeggies`.
-
-  Use `console.log` to display the contents of `fewerVeggies`.
+  Use `console.log` to display the contents of `veggies`.
 
 5. `console.log(message);`
 
@@ -124,9 +120,7 @@ Do not modify the contents of `js/array.js`.
 
    `console.log(threeMoreNumbers)`
 
-   Use a single method to combine these arrays into a single array.
-
-   Then use another method to generate the order: `1, 2, 3, 4, 5, 6`.
+   Use a single method to combine these arrays into a single array and to produce the order: `1, 2, 3, 4, 5, 6`.
 
 
 ### More Objects

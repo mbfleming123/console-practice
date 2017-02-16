@@ -45,16 +45,18 @@ If a solution or answer to a question eludes you, ask!
 
   Iterate over the following array so each item is printed to the console.
 
-  var array = `["Flynn", "Quorra", "Coby", "Charlie"]`
+  `var array = ["Flynn", "Quorra", "Coby", "Charlie"];`
 
 5. Iterate over an object
 
-  Iterate over the following object, constructing a sentence similar to the output provided.
+  Iterate over the following object, constructing a sentence similar to the output (a string) provided.
 
+  ```javascript
   var car = {
+    year: 2016,
     make: "Chevrolet",
-    model: "Camaro",
-    year: 2016;
+    model: "Camaro"
   }
+  ```
 
-  Output: "The Chevrolet Camaro won the 2016 Car of the Year Award."
+  Output: "2016 Chevrolet Camaro"

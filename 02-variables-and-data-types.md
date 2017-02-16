@@ -16,11 +16,11 @@ If a solution or answer to a question eludes you, ask!
 
    Type `cats = 3;`. Then type `cats`.
 
-   Type `cats = "Flynn and Quorra";`. Then type `cats;` again.
+   Type `cats = "Flynn and Quorra";`. Then type `cats` again.
 
-   Type `cats = true;`. Then type `cats;` again.
+   Type `cats = true;`. Then type `cats` again.
 
-   Type `var dogs = cats;` Then type `cats;` again.
+   Type `var dogs = cats;` Type `dogs`. Then type `cats` again.
 
    What does this tell you about variables?
 
